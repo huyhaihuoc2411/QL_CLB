@@ -1,0 +1,24 @@
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\bin\Debug\QL_Cau_Lac_Bo.exe.config
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\bin\Debug\QL_Cau_Lac_Bo.exe
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\bin\Debug\QL_Cau_Lac_Bo.pdb
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.QLCauLacBo.resources
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.Properties.Resources.resources
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.csproj.GenerateResource.Cache
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.exe
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.pdb
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.csprojResolveAssemblyReference.cache
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.DangNhap.resources
+C:\dữ liệu\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.FormLoading.resources
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\bin\Debug\QL_Cau_Lac_Bo.exe.config
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\bin\Debug\QL_Cau_Lac_Bo.exe
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\bin\Debug\QL_Cau_Lac_Bo.pdb
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.DangNhap.resources
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.FormLoading.resources
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.QLCauLacBo.resources
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.exe
+C:\Users\Lenovo\Desktop\QL_Cau_Lac_Bo\QL_Cau_Lac_Bo\obj\Debug\QL_Cau_Lac_Bo.pdb
